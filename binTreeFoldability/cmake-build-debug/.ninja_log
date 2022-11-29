@@ -1,0 +1,13 @@
+# ninja log v5
+1	155	1669669379770000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+167	214	1669669379830000000	binTreeFoldability	bd9dbc79de90597e
+1	53	1669669430790000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+54	93	1669669430830000000	binTreeFoldability	bd9dbc79de90597e
+1	58	1669669446050000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+60	101	1669669446100000000	binTreeFoldability	bd9dbc79de90597e
+1	159	1669670057140000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+161	209	1669670057200000000	binTreeFoldability	bd9dbc79de90597e
+1	56	1669670162910000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+57	96	1669670162960000000	binTreeFoldability	bd9dbc79de90597e
+1	57	1669670174240000000	CMakeFiles/binTreeFoldability.dir/main.c.o	b686ebff994dda78
+59	99	1669670174280000000	binTreeFoldability	bd9dbc79de90597e

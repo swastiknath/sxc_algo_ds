@@ -1,0 +1,13 @@
+# ninja log v5
+1	206	1669759077820000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+217	270	1669759077900000000	bstInorderSuccessor	8554f3b12a71fe73
+1	57	1669759291210000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+59	98	1669759291260000000	bstInorderSuccessor	8554f3b12a71fe73
+1	56	1669759368440000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+57	96	1669759368480000000	bstInorderSuccessor	8554f3b12a71fe73
+1	48	1669759416230000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+49	87	1669759416280000000	bstInorderSuccessor	8554f3b12a71fe73
+1	57	1669759434590000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+59	96	1669759434640000000	bstInorderSuccessor	8554f3b12a71fe73
+1	57	1669759564060000000	CMakeFiles/bstInorderSuccessor.dir/main.c.o	e88d4247f5e5ffa5
+58	99	1669759564100000000	bstInorderSuccessor	8554f3b12a71fe73

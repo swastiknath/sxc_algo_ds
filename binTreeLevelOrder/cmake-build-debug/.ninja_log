@@ -1,0 +1,13 @@
+# ninja log v5
+1	172	1669740699490000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+184	232	1669740699550000000	binTreeLevelOrder	4883bfa4fec630e4
+1	172	1669741250100000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+174	225	1669741250160000000	binTreeLevelOrder	4883bfa4fec630e4
+1	171	1669746843040000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+173	222	1669746843100000000	binTreeLevelOrder	4883bfa4fec630e4
+1	51	1669746888540000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+52	89	1669746888580000000	binTreeLevelOrder	4883bfa4fec630e4
+1	55	1669746911370000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+57	96	1669746911420000000	binTreeLevelOrder	4883bfa4fec630e4
+1	55	1669746949440000000	CMakeFiles/binTreeLevelOrder.dir/main.c.o	335944be1f7cb19
+57	96	1669746949480000000	binTreeLevelOrder	4883bfa4fec630e4

@@ -1,0 +1,13 @@
+# ninja log v5
+1	200	1669666156200000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+211	281	1669666156280000000	binTreeDeletion	e46b9a76cf2a04cc
+0	53	1669666205890000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+55	94	1669666205930000000	binTreeDeletion	e46b9a76cf2a04cc
+2	53	1669666247890000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+55	93	1669666247930000000	binTreeDeletion	e46b9a76cf2a04cc
+1	168	1669666860450000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+169	220	1669666860500000000	binTreeDeletion	e46b9a76cf2a04cc
+0	55	1669666885970000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+56	96	1669666886020000000	binTreeDeletion	e46b9a76cf2a04cc
+2	170	1669668170000000000	CMakeFiles/binTreeDeletion.dir/main.c.o	46101b7f0673c6ed
+172	228	1669668170060000000	binTreeDeletion	e46b9a76cf2a04cc

@@ -1,0 +1,17 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+The C compiler identification could not be found in "/Volumes/T7 Touch/Workspace/binTreeOps/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/._CMakeCCompilerId.c"
+
+The C compiler identification could not be found in "/Volumes/T7 Touch/Workspace/binTreeOps/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/._CMakeCCompilerId.o"
+
+The C compiler identification could not be found in "/Volumes/T7 Touch/Workspace/binTreeOps/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/._tmp"
+

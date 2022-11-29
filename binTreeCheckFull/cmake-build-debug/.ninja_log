@@ -1,0 +1,7 @@
+# ninja log v5
+0	151	1669671289190000000	CMakeFiles/binTreeCheckFull.dir/main.c.o	156c42d08c4fb9ac
+164	206	1669671289250000000	binTreeCheckFull	4e882d8e613a15fb
+1	58	1669671325290000000	CMakeFiles/binTreeCheckFull.dir/main.c.o	156c42d08c4fb9ac
+60	97	1669671325330000000	binTreeCheckFull	4e882d8e613a15fb
+1	198	1669676132030000000	CMakeFiles/binTreeCheckFull.dir/main.c.o	156c42d08c4fb9ac
+200	253	1669676132090000000	binTreeCheckFull	4e882d8e613a15fb
