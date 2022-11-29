@@ -59,13 +59,32 @@ bstNode * getMinimumNode(bstNode * root){
     return current;
 }
 
-bstNode * findInorderSuccessor (bstNode * root){
-    //if the right subtree of the node of is not null, then the leftmost node of the right subtree will be the inorder succeessor.
+bstNode * findInorderSuccessor (bstNode * root, bstNode * givenNode){
+    //if the right subtree of the node of is not null,
+    // then the leftmost node of the right subtree will be the inorder successor.
+    if (givenNode -> right != NULL){
+       return getMinimumNode(givenNode -> right);
 
+    }
+    bstNode * successor = NULL;
+    while (root != NULL){
+        if (givenNode -> value < root->value){
+            successor = root;
+            root = root -> left;
+        } else if (givenNode -> value > root -> value){
+            root = root -> right;
+        } else {
+            break;
+        }
+    }
+    return successor;
 }
+
 
 int main() {
     bstNode * root = NULL;
+    bstNode * successor = NULL;
+
     root = insertNodeIntoBST(root, 50);
     root = insertNodeIntoBST(root, 70);
     root = insertNodeIntoBST(root, 5);
@@ -76,6 +95,10 @@ int main() {
     root = insertNodeIntoBST(root, 11);
     root = insertNodeIntoBST(root, 17);
 
+    bstNode * givenNode = root->left->right;
+    successor = findInorderSuccessor(root, givenNode);
+    printf("\n%d - Successor is %d\n", givenNode ->value, successor ->value);
     inorder(root);
+
     return 0;
 }
